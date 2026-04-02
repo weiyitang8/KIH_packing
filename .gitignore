@@ -1,0 +1,17 @@
+# Large structure ensemble — not tracked (use Zenodo / lab share / local batch)
+pdbs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Optional: keep logs out of version control (remove these lines to track)
+# *.log

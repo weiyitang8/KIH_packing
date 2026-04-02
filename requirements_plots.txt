@@ -1,0 +1,9 @@
+# For plot_rosetta_packing_merged.py
+numpy>=1.20
+pandas>=1.3
+matplotlib>=3.5
+seaborn>=0.12
+
+# For plot_sequence_logo.py
+biopython>=1.83
+logomaker>=0.8
